@@ -1,1 +1,34 @@
-directories.txt
+# Python virtual environments
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# macOS files
+.DS_Store
+
+# R session files
+.Rhistory
+.RData
+.Ruserdata
+
+# Raw satellite imagery
+data/raw/
+
+# Generated raster outputs
+data/processed/*.tif
+data/processed/*.tiff
+
+# Temporary Copernicus downloads
+Browser_images/
+
+# VS Code local settings
+.vscode/
+
+# Local project documentation
+Monitoring Wetland Vegetation Change in Manitoba.pdf
