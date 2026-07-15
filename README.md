@@ -29,7 +29,7 @@ This project demonstrates how open geospatial data and Python-based analytics ca
 
 ## Study Area
 
-The initial study area focuses on wetland and vegetation dynamics in Manitoba, Canada, with an emphasis on regions surrounding Winnipeg and the Lake Winnipeg watershed.
+The initial study area focuses on wetland and vegetation dynamics in Manitoba, Canada, with an emphasis on Oak Hammock Marsh and surrounding agricultural land and the Lake Winnipeg watershed.
 
 Future versions of the project may expand to additional ecologically significant regions in Manitoba to support broader environmental monitoring and change detection analyses.
 
@@ -92,8 +92,8 @@ This project demonstrates practical experience in:
 
 Sentinel-2 imagery obtained from:
 
-* Copernicus Open Access Hub
-* USGS EarthExplorer
+* Copernicus Data Space Browser
+* Sentinel-2 Level-2A surface reflectance imagery
 
 ### Geospatial Boundaries
 
@@ -138,8 +138,8 @@ wetland-change-manitoba/
 │   ├── processed/
 │
 ├── notebooks/
-│   ├── 01_ndvi.ipynb
-│   ├── 02_clip_and_ndvi.ipynb
+│   ├── 01_inspect_and_ndvi.ipynb
+│   
 │
 ├── src/
 │   ├── data_processing.py
@@ -245,7 +245,7 @@ pip freeze > requirements.txt
 
 ### Humberto Eleazar Díaz Maridueña
 
-Environmental Engineer and Data Professional with experience in:
+Environmental professional with a Bachelor of Environmental Engineering and experience in GIS, remote sensing, ecological restoration, artificial intelligence, machine learning, and data science. with experience in:
 
 * Environmental Science
 * Ecological Restoration
