@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "oak_hammock_study_area",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Oak Hammock Marsh study area", "source": "Sentinel-2 export extent", "reference_date": "2025-08-02" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -96.886062539749361, 50.182328865697428 ], [ -96.877934134047536, 50.365471855300498 ], [ -97.424842017210707, 50.37416699401598 ], [ -97.43087799999806, 50.190967999995749 ], [ -96.886062539749361, 50.182328865697428 ] ] ] } }
+]
+}
