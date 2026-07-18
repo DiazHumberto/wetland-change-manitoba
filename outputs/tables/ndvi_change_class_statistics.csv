@@ -1,0 +1,4 @@
+Class code,Change class,Definition,Pixel count,Area (ha),Percentage (%)
+1,NDVI decrease,Change < -0.10,687003,17391.08,26.8
+2,Relatively stable,-0.10 ≤ change ≤ +0.10,1174393,29729.07,45.81
+3,NDVI increase,Change > +0.10,702204,17775.88,27.39
